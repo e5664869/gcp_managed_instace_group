@@ -1,3 +1,6 @@
+variable "gcp-project" {
+  type = string
+}
 variable "mig_vpc_name" {
   type = string
 }
